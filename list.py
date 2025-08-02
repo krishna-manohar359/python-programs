@@ -1,0 +1,20 @@
+a=[1,2,3,7,-1,6,8]
+#b=["krish","ram","hero"]
+#c=[1,"krish",12.31]ṇṇ
+#print(a)
+#print(b)
+#print(c)
+#print(a[-1])
+#print(a[0:3])
+#print(a[0:5:2])
+#a.sort()
+#print(a)
+#a.append((39))
+#a.insert(2,-145)
+#a.extend([23,32,1,144,12])
+#a[1:3]=[4,9]
+#a.remove(8)
+#b=a.copy()
+#print("new list b:",b)
+#print(a.count(9))
+print(a)
