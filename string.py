@@ -9,3 +9,5 @@ print(str1[1:4])#range with index
 print(str1.center(12))
 print(min(str1))
 print(str1.startswith("hello",1,len(str1)))
+print(str1.find('l',0,len(str1)))#shows starting index of the given thing
+print(str1.rfind('l',0,len(str1)))#shows last  index of the given thing
